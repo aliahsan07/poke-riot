@@ -31,3 +31,6 @@ https://www.youtube.com/watch?v=pKNFp9BNnm4 (Cubes VS Spheres (Plants vs Zombies
 Vuforia API is incorporated to include VR support for the game.
 
 ![alt text](https://github.com/aliahsan07/pokemonVpokemon/blob/master/Screenshots/1.png)
+![alt text](https://github.com/aliahsan07/pokemonVpokemon/blob/master/Screenshots/2.png)
+![alt text](https://github.com/aliahsan07/pokemonVpokemon/blob/master/Screenshots/3.png)
+
