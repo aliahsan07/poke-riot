@@ -1,6 +1,8 @@
 -----------------------------------------------------------------
 PLANTS VS ZOMBIES PROTOTYPE FEATURING Pokemon
+
 Version 1.0.0
+
 Implemented in Unity with C#
 -----------------------------------------------------------------
 
@@ -32,5 +34,5 @@ Vuforia API is incorporated to include VR support for the game.
 
 ![alt text](https://github.com/aliahsan07/pokemonVpokemon/blob/master/Screenshots/1.png)
 ![alt text](https://github.com/aliahsan07/pokemonVpokemon/blob/master/Screenshots/2.png)
-![alt text](https://github.com/aliahsan07/pokemonVpokemon/blob/master/Screenshots/3.png)
+![alt text](https://github.com/aliahsan07/pokemonVpokemon/blob/master/Screenshots/4.png)
 
