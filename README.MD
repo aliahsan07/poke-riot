@@ -28,9 +28,6 @@ Pokemon theme song plays throughout the game.
 REFERENCES
 https://www.youtube.com/watch?v=pKNFp9BNnm4 (Cubes VS Spheres (Plants vs Zombies) - Making 'Plants VS Zombies' Android game [C#][Stream VOD])
 
+Vuforia API is incorporated to include VR support for the game.
 
-Unfortunately, the full functionality could not be implemented and there are quite a few number of bugs still in the game.
-
-
-Ali Ahsan
-18100071
+![alt text](https://github.com/aliahsan07/pokemonVpokemon/blob/master/Screenshots/1.png)
