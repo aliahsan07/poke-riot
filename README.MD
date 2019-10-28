@@ -2,7 +2,6 @@
 PLANTS VS ZOMBIES PROTOTYPE FEATURING Pokemon
 Version 1.0.0
 Implemented in Unity with C#
-WITH THE HELP OF https://www.youtube.com/watch?v=pKNFp9BNnm4
 -----------------------------------------------------------------
 
 This game tries to mimic plants v zombies except that there are pokemon on both sides. 
