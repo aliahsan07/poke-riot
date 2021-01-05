@@ -1,5 +1,5 @@
 -----------------------------------------------------------------
-PLANTS VS ZOMBIES PROTOTYPE FEATURING Pokemon
+# PokeRiot
 
 Version 1.0.0
 
